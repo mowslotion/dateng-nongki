@@ -19,5 +19,6 @@ While doing it, we will have these hands-ons:
 <br>
 <br>
 ## Resources 
+
 The scripts are provided in the /source directory
 
