@@ -18,4 +18,5 @@ We will use a shell script called `bash`, which is widely used in the industry a
   - grep
   - awk
   - sed
-  - etc.
+  - etc.<br>
+While these libraries are not mandatory for basic shell scripting, they can be helpful in more advanced scenarios. We will cover the usage of these libraries and provide examples throughout the course, ensuring you have a well-rounded understanding of their capabilities.
